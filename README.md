@@ -2,8 +2,8 @@
 
 pcDuino3 Nano Debian root file system build script and auxiliary files  
 
-Manual Debian Build
--------------------
+Manual Debian Build Process
+---------------------------
 cd ./staging
 
 mkdir rootfs
